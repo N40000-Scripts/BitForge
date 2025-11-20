@@ -1,8 +1,0 @@
---[[    twix.cyou/pix
-    twix.cyou/OpenAimbotV3rm
-
-    Author: ttwiz_z (ttwizz) <i@twix.cyou>
-    License: MIT
-    GitHub: https://github.com/ttwizz/Open-Aimbot]]
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ttwizz/Open-Aimbot/master/source.lua", true))()
